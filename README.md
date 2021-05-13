@@ -1,17 +1,32 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+Date Created: May 13, 2021
 
-### Date created
-Include the date you created this project and README file.
+Title: Udacity Nanodegree Program - Python for Data Science: Explore US Bikeshare Data
 
-### Project Title
-Replace the Project Title
+Description:
+Using Python to understand US bikehsare data in three cities of Chicago, Washington, and New York City. This program takes user input for the city, month, day to filter data available.
+Upon receiving the user input, it goes ahead and asks the user if they want to view the raw data (5 rows of data initially) or not. Following the input received, the program prints the following details:
 
-### Description
-Describe what your project is about and what it does
+Most popular month
+Most popular day
+Most popular hour
+Most popular start station
+Most popular end station
+Most popular combination of start and end stations
+Total trip duration
+Average trip duration
+Types of users by number
+Types of users by gender (if available)
+The oldest user (if available)
+The youngest user (if available)
+The most common birth year amongst users (if available)
 
-### Files used
-Include the files used
+Finally, the user is prompted with the choice of restarting the program or not.
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+Files used:
+chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
+
+
 
