@@ -33,3 +33,6 @@ Used Python Libraries:
 - Pandas
 - NumPy
 - Time
+
+Author: 
+Maryam Nourouzi
